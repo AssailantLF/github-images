@@ -1,1 +1,1 @@
-This repo hosts images that I use on GitHub, primarily in README files.
+This repo hosts images that I use in my other repositories in order to save space when cloning/downloading those repos.
